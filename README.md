@@ -18,7 +18,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Video Games Sales Analysis
+### eCommerce Business Analysis
 **Code:** [`eCommerce_Business_Analysis.git`](https://github.com/Mariogebraell/eCommerce_Business_Analysis.git)
 
 **Description:** Our business is a large web present electronics sales organization.
