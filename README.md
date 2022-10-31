@@ -26,7 +26,7 @@ As such out customers are spread across the world and purchase goods that range 
 The project includes the following steps: Identify Requirements for Data Models, Design Data Models, Build Data Models, Validate Data, Design Applications, Prepare and Load Data, Develop Application, Analysis, Reporting, Merge Application, Mashup development.  
 **Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
 **Technology:** Qlik Sense.  
-**Results:** Review of the global and regional video games markets, data-based business recommendations.  
+**Results:** Implement a Tier 4 Qlik Mart For Self Service.  
 
 
 
