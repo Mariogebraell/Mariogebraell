@@ -20,7 +20,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Video Games Sales Analysis
 **Code:** [`eCommerce_Business_Analysis.git`](https://github.com/Mariogebraell/eCommerce_Business_Analysis.git)
-
 **Description:** Our business is a large web present electronics sales organization.
 As such out customers are spread across the world and purchase goods that range from mp3 players to TV and video products.
 The project includes the following steps: Identify Requirements for Data Models, Design Data Models, Build Data Models, Validate Data, Design Applications, Prepare and Load Data, Develop Application, Analysis, Reporting, Merge Application, Mashup development.  
