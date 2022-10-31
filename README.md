@@ -13,7 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](#portfolio-projects)
 	+ [eCommerce Business Analysis](#eCommerce_Business_Analysis)
 - [Certificates]
-- [Contacts]
+- [Contacts](#contacts)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
