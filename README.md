@@ -21,15 +21,11 @@ In this section I will list data analytics projects briefly describing the techn
 ### eCommerce Business Analysis
 **Code:** [`eCommerce_Business_Analysis.git`](https://github.com/Mariogebraell/eCommerce_Business_Analysis.git)
 
-**Description:** Our business is a large web present electronics sales organization.
-As such out customers are spread across the world and purchase goods that range from mp3 players to TV and video products. The customer has specified that the solution should provide functionality that will serve the company in presenting key performance and analytic data to the business management and key users.
+**Description:** Our business is a large "Web Based" electonics sales organization. As such out customers are spread across the world and purchase goods that range from mp3 players to TV and video products. The eCommerce management team requires DAR methodology, KPI presentation,  Highly interactive Analysis of Trends and Share presentation, Reporting pages providing granular/detailed information in tabular form presentation,  Self Service Analytics, Strong Security, Data Timeliness.
 The project includes the following steps: Identify Requirements for Data Models, Design Data Models, Build Data Models, Validate Data, Design Applications, Prepare and Load Data, Develop Application, Analysis, Reporting, Merge Application, Mashup development.  
-**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
+**Skills:** data cleaning, data analysis, descriptive statistics, Risk Analysis, ETL, data visualization.  
 **Technology:** Qlik Sense, SQL, Excel. 
-**Results:** Implement a Tier 4 Qlik Mart For Self Service.  
-
-
-
+**Results:** Created an a Tier 4 for Self Service analytics.
 
 
 ## Contacts
@@ -37,8 +33,7 @@ The project includes the following steps: Identify Requirements for Data Models,
 - E-mail: Mariogebrael@yahoo.com
 
 
-
-
+DAR methodology, KPI presentation,  Highly interactive Analysis of Trends and Share presentation, Reporting pages providing granular/detailed information in tabular form presentation,  Self Service Analytics, Strong Security, Data Timeliness
 
 
 
