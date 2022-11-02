@@ -31,11 +31,11 @@ The project includes the following steps: Identify Requirements for Data Models,
 
 
 ## Contacts
-- LinkedIn: [mario-gebrael](www.linkedin.com/in/mario-gebrael)
+- LinkedIn: [mario-gebrael](https://www.linkedin.com/in/mario-gebrael)
 - E-mail: Mariogebrael@yahoo.com
 
 
-DAR methodology, KPI presentation,  Highly interactive Analysis of Trends and Share presentation, Reporting pages providing granular/detailed information in tabular form presentation,  Self Service Analytics, Strong Security, Data Timeliness
+
 
 
 
