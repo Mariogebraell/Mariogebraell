@@ -11,8 +11,8 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [eCommerce Business Analysis](#eCommerce_Business_Analysis)
-	+ [BellaBeat high-tech company Analysis](#BellaBeat_high-tech_company_Analysis)
+	+ [eCommerce Business Analysis](#eCommerce-Business-Analysis)
+	+ [BellaBeat high-tech company Analysis](#bellaBeat-high-tech-company-Analysis)
 - [Certificates]
 - [Contacts](#contacts)
 
