@@ -60,11 +60,15 @@ The project includes the following steps: Ask, Prepare, Process, Analyse, Share,
 
 
 ### Covid-19 Pandamic Analysis
-Code: [`Covid-19-Pandamic-Analysis`](https://github.com/Mariogebraell/Covid-19-Analysis.git)
-Description: This study analyses quantitatively the lethal effects of the pandemic through the study of infections, deaths, and recoveries in the Countries with highest infection Rate in 2021.
-Skills: joins, CTE's, temp tables, windows functions, aggregate functions, creating views, converting data types.
-Technology: Microsoft SQL Server, Excel.
-Results: 
+**Code:** [`Covid-19-Pandamic-Analysis`](https://github.com/Mariogebraell/Covid-19-Analysis.git)
+
+**Description:** This study analyses quantitatively the lethal effects of the pandemic through the study of infections, deaths, and recoveries in the Countries with highest infection Rate in 2021.  
+**Skills:** joins, CTE's, temp tables, windows functions, aggregate functions, creating views, converting data types.  
+**Technology:** Microsoft SQL Server, Excel.  
+**Results:** learn about the relationships of various countries in containing the spread of COVID-19.
+
+
+
 
 
 
