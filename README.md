@@ -33,15 +33,27 @@ The project includes the following steps: Identify Requirements for Data Models,
 ### Patient Costing Analysis
 **Code:** [`eCommerce_Business_Analysis.git`](https://github.com/Mariogebraell/eCommerce_Business_Analysis.git)
 
-**Description:** The dataset contains 211,233 records as of 2018, 2019 and 2020. The broad metrics that the user requires are: Patient count, Averages for length of stay (LOS), Age, Highlight Revenue, Cost and Profit, Previous Year & Month Cost for comparison, Year based profitability, Practitioner Profitability, Patient activity (e.g. Country of origin, Admission type, LOS etc.), Gender ratio,  Average length of stay (LOS) by specialty and cost, Average length of stay (LOS) by age group and profitability, GEO Analytics patient origins showing Counts, Revenue, Cost, LOS, profitability, average age using Map and other considerations for dashboard interaction are: Admission Date drill down capability e.g. Year >>> Month >> Date, Age Group Drill Down e.g. Age Group >>> Age, Filter selections by Admission year, Specialty, Gender. The project includes the following steps: Understanding Data and Reqirements, Data life cycle, Domain Identification, Data Source Identification, Develop Hypothesis, Qlik Associative Model, Create Application, Loading Data, Transform Data, Perform Manual Associations.
-**Skills:** data sourcing and cleaning, perform analytics, Abridged Methodology, descriptive statistics, ETL, results visualization.
+**Description:**The dataset contains 211,233 records as of 2018, 2019 and 2020. The broad metrics that the user requires are: Patient count, Averages for length of stay (LOS), Age, Highlight Revenue, Cost and Profit, Previous Year & Month Cost for comparison, Year based profitability, Practitioner Profitability, Patient activity (e.g. Country of origin, Admission type, LOS etc.), Gender ratio,  Average length of stay (LOS) by specialty and cost, Average length of stay (LOS) by age group and profitability, GEO Analytics patient origins showing Counts, Revenue, Cost, LOS, profitability, average age using Map and other considerations for dashboard interaction are: Admission Date drill down capability e.g. Year >>> Month >> Date, Age Group Drill Down e.g. Age Group >>> Age, Filter selections by Admission year, Specialty, Gender. 
+The project includes the following steps: Understanding Data and Reqirements, Data life cycle, Domain Identification, Data Source Identification, Develop Hypothesis, Qlik Associative Model, Create Application, Loading Data, Transform Data, Perform Manual Associations.  
+**Skills:**  data sourcing and cleaning, perform analytics, Abridged Methodology, descriptive statistics, ETL, results visualization.  
 **Technology:** Qlik Sense, SQL, Excel.  
-**Results:**  created an analytical dashboard to identify the patient care costs. 
+**Results:** Created an analytical dashboard to identify the patient care costs.  
+
+
+
+
+
+
+
+
+
+
 
 ### BellaBeat High-Tech company Analysis
 **Code:** [`capstone-optimizing-bellabeat-with-r.ipynb`](https://github.com/Mariogebraell/optimizing-bellabeat-with-r.git)
 
-**Description:** Bellabeat is a high-tech company that manufactures health-focused smart products. They develop wearable and accompanying products that monitor biometric and lifestyle data to help women better understand how their bodies work and make healthier choices. The main focus of this case is to analyze smart devices fitness data and determine how it could help unlock new growth opportunities for Bellabeat. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), measuring statistical factors.  
+**Description:** Bellabeat is a high-tech company that manufactures health-focused smart products. They develop wearable and accompanying products that monitor biometric and lifestyle data to help women better understand how their bodies work and make healthier choices. The main focus of this case is to analyze smart devices fitness data and determine how it could help unlock new growth opportunities for Bellabeat. 
+The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), measuring statistical factors.  
 **Skills:** data cleaning, data analysis, descriptive statistics, R coding, hypothesis testing, data visualization,  making conclusion and giving recommendations for follow-up actions.  
 **Technology:** R Programming, R Markdown, ggplot, ggarrange, Kaggle Notebook, Excel.  
 **Results:** Finding different trends that may help our online campaign and improve the Bellabeat app.   
@@ -49,7 +61,8 @@ The project includes the following steps: Identify Requirements for Data Models,
 ### Cyclistic Bike-Share Analysis 
 **Code:** [`cyclistic-bike-share-analysis-r.ipynb`](https://github.com/Mariogebraell/cyclistic-bike-share-analysis.git)
 
-**Description:** The final project for 6 month Data Analysis Course. Setup: Cyclistic is a Chicago-based bike sharing company that features 5,824 bicycles and 692 docking stations. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore he wants to understand how casual riders and annual members use Cyclistic bikes differently. Cyclistic has 3 flexible pricing plans- single-ride passes, full-day passes, and annual memberships. Single-ride or full-day pass customers are casual riders while those who purchase annual memberships are Cyclistic members. The project includes the following steps: Ask, Prepare, Process, Analyse, Share, Act as described in the Google Data Analytics Professional Certificate.  
+**Description:** The final project for 6 month Data Analysis Course. Setup: Cyclistic is a Chicago-based bike sharing company that features 5,824 bicycles and 692 docking stations. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore he wants to understand how casual riders and annual members use Cyclistic bikes differently. Cyclistic has 3 flexible pricing plans- single-ride passes, full-day passes, and annual memberships. Single-ride or full-day pass customers are casual riders while those who purchase annual memberships are Cyclistic members. 
+The project includes the following steps: Ask, Prepare, Process, Analyse, Share, Act as described in the Google Data Analytics Professional Certificate.  
 **Skills:** data cleaning, data analysis, descriptive statistics, R coding, hypothesis testing, data visualization,  making conclusion and giving recommendations for follow-up actions.  
 **Technology:** R Programming, R Markdown, ggplot, ggarrange, Tableau, Kaggle Notebook, Excel. 
 **Results:** Finding different trends that may help our online campaign and improve the Bellabeat app. 
