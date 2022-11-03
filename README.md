@@ -15,6 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
 	+ [Patient Costing Analysis](#Patient-Costing-Analysis)
 	+ [BellaBeat High-Tech Company Analysis](#bellaBeat-high-tech-company-Analysis)
 	+ [Cyclistic Bike-Share Analysis](#cyclistic-bike-share-analysis)
+	+ [Covid-19 Pandamic Analysis](#covid-19-pandamic-analysis)
 - [Certificates]
 - [Contacts](#contacts)
 
