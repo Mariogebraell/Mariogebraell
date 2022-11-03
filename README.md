@@ -13,7 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](#portfolio-projects)
 	+ [eCommerce Business Analysis](#eCommerce-Business-Analysis)
 	+ 
-	+ [BellaBeat high-tech company Analysis](#bellaBeat-high-tech-company-Analysis)
+	+ [BellaBeat High-Tech Company Analysis](#bellaBeat-high-tech-company-Analysis)
 	+ [Cyclistic Bike-Share Analysis](#cyclistic-bike-share-analysis)
 - [Certificates]
 - [Contacts](#contacts)
@@ -38,7 +38,7 @@ The project includes the following steps: Identify Requirements for Data Models,
 **Technology:** Qlik Sense, SQL, Excel.  
 **Results:**  created an analytical dashboard to identify the patient care costs. 
 
-### BellaBeat high-tech company Analysis
+### BellaBeat High-Tech company Analysis
 **Code:** [`capstone-optimizing-bellabeat-with-r.ipynb`](https://github.com/Mariogebraell/optimizing-bellabeat-with-r.git)
 
 **Description:** Bellabeat is a high-tech company that manufactures health-focused smart products. They develop wearable and accompanying products that monitor biometric and lifestyle data to help women better understand how their bodies work and make healthier choices. The main focus of this case is to analyze smart devices fitness data and determine how it could help unlock new growth opportunities for Bellabeat. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), measuring statistical factors.  
