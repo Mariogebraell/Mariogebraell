@@ -13,6 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](#portfolio-projects)
 	+ [eCommerce Business Analysis](#eCommerce-Business-Analysis)
 	+ [BellaBeat high-tech company Analysis](#bellaBeat-high-tech-company-Analysis)
+	+ [Cyclistic Bike-Share Analysis](#cyclistic-bike-share-analysis)
 - [Certificates]
 - [Contacts](#contacts)
 
