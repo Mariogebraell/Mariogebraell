@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
 	+ [BellaBeat High-Tech Company Analysis](#bellaBeat-high-tech-company-Analysis)
 	+ [Cyclistic Bike-Share Analysis](#cyclistic-bike-share-analysis)
 	+ [Covid-19 Pandamic Analysis](#covid-19-pandamic-analysis)
-- [Certificates]
+- [Certificates](#certificates)
 - [Contacts](#contacts)
 
 ## Portfolio Projects
@@ -82,10 +82,6 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [Process Data from Dirty to Clean](https://coursera.org/share/e1ae120b1de372575564cfd1f81c2714) (May 2022) (Coursera)
 - [Prepare Data for Exploration](https://coursera.org/share/6ea5ec398145b4a6b3328eb934c6aecd) (May 2022) (Coursera)
 - [Ask Questions to Make Data-Driven Decisions](https://coursera.org/share/a947c2cc1412d8474c28b3630754afbe) (Apr 2022) (Coursera)
-
-
-
-
 
 
 
