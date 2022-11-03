@@ -75,7 +75,7 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [PostgreSQL Summary Stats and Window Functions](https://www.datacamp.com/statement-of-accomplishment/course/27d65ec0900b18a636cfa905e1e7849b57956918?raw=1) (sep 2022) (DataCamp)
 - [Intermediate SQL Queries](https://www.datacamp.com/statement-of-accomplishment/course/26eb3a5021b42e187ee8a00a018fe9e8e77db03d?raw=1) (Aug 2022) (DataCamp)
 - [Introduction to Data Science in Python](https://www.datacamp.com/statement-of-accomplishment/course/a826ed68fd97c790c983237e7d484bb784435010?raw=1) (Aug 2022) (DataCamp)
-- [Google Data Analytics Professional Certificate](https://coursera.org/share/5eee6d3069508) (Jul 2022) (Coursera - Google)
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/H8R97YRF25HT) (Jul 2022) (Coursera - Google)
 - [Data Analysis with R Programming](https://coursera.org/share/23a0261efe547372f27591e2c1bd498d) (Jul 2022) (Coursera)
 - [Share Data Through the Art of Visualization](https://coursera.org/share/3882c069b4de537b139033b526c55935) (Jun 2022) (Coursera)
 - [Analyze Data to Answer Questions](https://coursera.org/share/8f6c04b1a70ba44570a59686becda4d0) (Jun 2022) (Coursera)
