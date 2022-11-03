@@ -30,30 +30,13 @@ The project includes the following steps: Identify Requirements for Data Models,
 **Results:** Created an a Tier 4 for Self Service Analytics. 
 
 
-
-
-
-
-
-
-
 ### Patient Costing Analysis
 **Code:** [`eCommerce_Business_Analysis.git`](https://github.com/Mariogebraell/eCommerce_Business_Analysis.git)
 
-**Description:** 
-The project includes the following steps: Data life cycle, Domain Identification, Data Source Identification, Develop Hypothesis, Qlik Associative Model, Create Application, Loading Data, Transform Data, Perform Manual Associations, Abridged Methodology
-**Skills:** understanding data and reqirements, data sourcing and cleaning, perform analytics, descriptive statistics, ETL, results visualization.  **Technology:** Qlik Sense, SQL, Excel.  
+**Description:** The dataset contains 211,233 records as of 2018, 2019 and 2020. The broad metrics that the user requires are: Patient count, Averages for length of stay (LOS), Age, Highlight Revenue, Cost and Profit, Previous Year & Month Cost for comparison, Year based profitability, Practitioner Profitability, Patient activity (e.g. Country of origin, Admission type, LOS etc.), Gender ratio,  Average length of stay (LOS) by specialty and cost, Average length of stay (LOS) by age group and profitability, GEO Analytics patient origins showing Counts, Revenue, Cost, LOS, profitability, average age using Map and other considerations for dashboard interaction are: Admission Date drill down capability e.g. Year >>> Month >> Date, Age Group Drill Down e.g. Age Group >>> Age, Filter selections by Admission year, Specialty, Gender.The project includes the following steps: Understanding Data and Reqirements, Data life cycle, Domain Identification, Data Source Identification, Develop Hypothesis, Qlik Associative Model, Create Application, Loading Data, Transform Data, Perform Manual Associations.
+**Skills:** data sourcing and cleaning, perform analytics, Abridged Methodology, descriptive statistics, ETL, results visualization.
+**Technology:** Qlik Sense, SQL, Excel.  
 **Results:** Created an a Tier 4 for Self Service Analytics. 
-
-
-
-
-
-
-
-
-
-
 
 
 
