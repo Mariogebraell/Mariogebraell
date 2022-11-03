@@ -27,6 +27,11 @@ The project includes the following steps: Identify Requirements for Data Models,
 **Technology:** Qlik Sense, SQL, Excel..  
 **Results:** Created an a Tier 4 for Self Service Analytics.  
 
+### BellaBeat high-tech company Analysis
+**Description:** Bellabeat is a high-tech company that manufactures health-focused smart products. They develop wearable and accompanying products that monitor biometric and lifestyle data to help women better understand how their bodies work and make healthier choices. The main focus of this case is to analyze smart devices fitness data and determine how it could help unlock new growth opportunities for Bellabeat. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
+**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization,  making conclusion and giving recommendations for follow-up actions.  
+**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
+**Results:** Review of the global and regional video games markets, data-based business recommendations.   
 
 
 
