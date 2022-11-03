@@ -40,7 +40,7 @@ The project includes the following steps: Understanding Data and Reqirements, Da
 **Technology:** Qlik Sense, SQL, Excel.  
 **Results:** Created an analytical dashboard to identify the patient care costs.  
 
-### BellaBeat High-Tech company Analysis
+### BellaBeat High-Tech Company Analysis
 **Code:** [`capstone-optimizing-bellabeat-with-r.ipynb`](https://github.com/Mariogebraell/optimizing-bellabeat-with-r.git)
 
 **Description:** Bellabeat is a high-tech company that manufactures health-focused smart products. They develop wearable and accompanying products that monitor biometric and lifestyle data to help women better understand how their bodies work and make healthier choices. The main focus of this case is to analyze smart devices fitness data and determine how it could help unlock new growth opportunities for Bellabeat. 
