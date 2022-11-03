@@ -31,10 +31,23 @@ The project includes the following steps: Identify Requirements for Data Models,
 ### BellaBeat high-tech company Analysis
 **Code:** [`capstone-optimizing-bellabeat-with-r.ipynb`](https://github.com/Mariogebraell/optimizing-bellabeat-with-r.git)
 
-**Description:** Bellabeat is a high-tech company that manufactures health-focused smart products. They develop wearable and accompanying products that monitor biometric and lifestyle data to help women better understand how their bodies work and make healthier choices. The main focus of this case is to analyze smart devices fitness data and determine how it could help unlock new growth opportunities for Bellabeat. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
+**Description:** Bellabeat is a high-tech company that manufactures health-focused smart products. They develop wearable and accompanying products that monitor biometric and lifestyle data to help women better understand how their bodies work and make healthier choices. The main focus of this case is to analyze smart devices fitness data and determine how it could help unlock new growth opportunities for Bellabeat. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), measuring statistical factors.  
 **Skills:** data cleaning, data analysis, descriptive statistics, R coding, hypothesis testing, data visualization,  making conclusion and giving recommendations for follow-up actions.  
-**Technology:** R Programming, R Markdown, Kaggle Notebook, Excel.
-**Results:** Finding different trends that may help our online campaign and improve the Bellabeat app.  
+**Technology:** R Programming, R Markdown, ggplot, ggarrange, Kaggle Notebook, Excel.  
+**Results:** Finding different trends that may help our online campaign and improve the Bellabeat app.   
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
