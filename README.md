@@ -29,14 +29,31 @@ The project includes the following steps: Identify Requirements for Data Models,
 **Technology:** Qlik Sense, SQL, Excel..  
 **Results:** Created an a Tier 4 for Self Service Analytics. 
 
+
+
+
+
+
+
+
+
 ### Patient Costing Analysis
 **Code:** [`eCommerce_Business_Analysis.git`](https://github.com/Mariogebraell/eCommerce_Business_Analysis.git)
 
-**Description:** Our business is a large "Web Based" electonics sales organization. As such out customers are spread across the world and purchase goods that range from mp3 players to TV and video products. The eCommerce management team requires DAR methodology, KPI presentation,  Highly interactive Analysis of Trends and Share presentation, Reporting pages providing granular/detailed information in tabular form presentation,  Self Service Analytics, Strong Security, Data Timeliness.
-The project includes the following steps: Identify Requirements for Data Models, Design Data Models, Build Data Models, Validate Data, Design Applications, Prepare and Load Data, Develop Application, Analysis, Reporting, Merge Application, Mashup development.  
-**Skills:** data cleaning, set analysis, descriptive statistics, Risk Analysis, ETL, data visualization.  
-**Technology:** Qlik Sense, SQL, Excel..  
+**Description:** 
+The project includes the following steps: Data life cycle, Data Source Identification, Qlik Associative Model, Create Application, Loading Data, Transform Data, Perform Manual Associations, Abridged Methodology
+**Skills:** understanding data and reqirements, data sourcing and cleaning, perform analytics, descriptive statistics, ETL, results visualization.  
+**Technology:** Qlik Sense, SQL, Excel.  
 **Results:** Created an a Tier 4 for Self Service Analytics. 
+
+
+
+
+
+
+
+
+
 
 
 
