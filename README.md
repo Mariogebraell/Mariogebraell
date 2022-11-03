@@ -39,16 +39,6 @@ The project includes the following steps: Understanding Data and Reqirements, Da
 **Technology:** Qlik Sense, SQL, Excel.  
 **Results:** Created an analytical dashboard to identify the patient care costs.  
 
-
-
-
-
-
-
-
-
-
-
 ### BellaBeat High-Tech company Analysis
 **Code:** [`capstone-optimizing-bellabeat-with-r.ipynb`](https://github.com/Mariogebraell/optimizing-bellabeat-with-r.git)
 
@@ -64,8 +54,18 @@ The project includes the following steps: data loading, data cleaning and prepro
 **Description:** The final project for 6 month Data Analysis Course. Setup: Cyclistic is a Chicago-based bike sharing company that features 5,824 bicycles and 692 docking stations. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore he wants to understand how casual riders and annual members use Cyclistic bikes differently. Cyclistic has 3 flexible pricing plans- single-ride passes, full-day passes, and annual memberships. Single-ride or full-day pass customers are casual riders while those who purchase annual memberships are Cyclistic members. 
 The project includes the following steps: Ask, Prepare, Process, Analyse, Share, Act as described in the Google Data Analytics Professional Certificate.  
 **Skills:** data cleaning, data analysis, descriptive statistics, R coding, hypothesis testing, data visualization,  making conclusion and giving recommendations for follow-up actions.  
+**Technology:** R Programming, R Markdown, ggplot, ggarrange, Kaggle Notebook, Excel.  
+**Results:**  Design a new marketing strategy to convert casual riders into annual members.    
+
+
+
+
+
+**Description:** The final project for 6 month Data Analysis Course. Setup: Cyclistic is a Chicago-based bike sharing company that features 5,824 bicycles and 692 docking stations. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore he wants to understand how casual riders and annual members use Cyclistic bikes differently. Cyclistic has 3 flexible pricing plans- single-ride passes, full-day passes, and annual memberships. Single-ride or full-day pass customers are casual riders while those who purchase annual memberships are Cyclistic members. 
+The project includes the following steps: Ask, Prepare, Process, Analyse, Share, Act as described in the Google Data Analytics Professional Certificate.  
+**Skills:** data cleaning, data analysis, descriptive statistics, R coding, hypothesis testing, data visualization,  making conclusion and giving recommendations for follow-up actions.  
 **Technology:** R Programming, R Markdown, ggplot, ggarrange, Tableau, Kaggle Notebook, Excel. 
-**Results:** Finding different trends that may help our online campaign and improve the Bellabeat app. 
+**Results:** Design a new marketing strategy to convert casual riders into annual members.  
 
 
 
