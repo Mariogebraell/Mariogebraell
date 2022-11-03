@@ -41,9 +41,8 @@ The project includes the following steps: Identify Requirements for Data Models,
 **Code:** [`eCommerce_Business_Analysis.git`](https://github.com/Mariogebraell/eCommerce_Business_Analysis.git)
 
 **Description:** 
-The project includes the following steps: Data life cycle, Data Source Identification, Qlik Associative Model, Create Application, Loading Data, Transform Data, Perform Manual Associations, Abridged Methodology
-**Skills:** understanding data and reqirements, data sourcing and cleaning, perform analytics, descriptive statistics, ETL, results visualization.  
-**Technology:** Qlik Sense, SQL, Excel.  
+The project includes the following steps: Data life cycle, Domain Identification, Data Source Identification, Develop Hypothesis, Qlik Associative Model, Create Application, Loading Data, Transform Data, Perform Manual Associations, Abridged Methodology
+**Skills:** understanding data and reqirements, data sourcing and cleaning, perform analytics, descriptive statistics, ETL, results visualization.  **Technology:** Qlik Sense, SQL, Excel.  
 **Results:** Created an a Tier 4 for Self Service Analytics. 
 
 
