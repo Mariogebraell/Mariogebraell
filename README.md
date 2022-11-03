@@ -69,6 +69,16 @@ The project includes the following steps: Ask, Prepare, Process, Analyse, Share,
 **Results:** learn about the relationships of various countries in containing the spread of COVID-19.
 
 
+## Certificates
+I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/H8R97YRF25HT) (May 2022) (Google)
+- [Exploratory Data Analysis in SQL](https://www.datacamp.com/statement-of-accomplishment/course/05935202770ef59bf3102a046ab8e13d18251971) (Oct 2022) (DataCamp)
+- [Data Analysis with R Programming](https://coursera.org/share/23a0261efe547372f27591e2c1bd498d) (sep 2022) (Coursera)
+- [PostgreSQL Summary Stats and Window Functions](https://www.datacamp.com/statement-of-accomplishment/course/27d65ec0900b18a636cfa905e1e7849b57956918?raw=1) (sep 2022) (DataCamp)
+- [Process Data from Dirty to Clean](https://coursera.org/share/e1ae120b1de372575564cfd1f81c2714) (Sep 2022) (Coursera)
+- [Intermediate SQL Queries](https://www.datacamp.com/statement-of-accomplishment/course/26eb3a5021b42e187ee8a00a018fe9e8e77db03d?raw=1) (Aug 2022) (DataCamp)
+- [Introduction to Data Science in Python](https://www.datacamp.com/statement-of-accomplishment/course/a826ed68fd97c790c983237e7d484bb784435010?raw=1) (Jul 2022) (DataCamp)
+-  [Joining Data in SQL](https://www.datacamp.com/statement-of-accomplishment/course/95a64fd58ad1dace699127b5564ce08e2edafc79?share=true) (Jul 2022) (DataCamp)
 
 
 
