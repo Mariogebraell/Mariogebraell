@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [eCommerce Business Analysis](#eCommerce_Business_Analysis)
-	+ [BellaBeat high-tech company Analysis](#capstone-optimizing-bellabeat-with-r)
+	+ [BellaBeat high-tech company Analysis](#optimizing-bellabeat-with-r)
 - [Certificates]
 - [Contacts](#contacts)
 
