@@ -60,7 +60,7 @@ The project includes the following steps: Ask, Prepare, Process, Analyse, Share,
 
 
 
-### Covid-19 Pandamic Analysis
+### Covid-19 Pandemic Analysis
 **Code:** [`Covid-19-Pandamic-Analysis`](https://github.com/Mariogebraell/Covid-19-Analysis.git)
 
 **Description:** This study analyses quantitatively the lethal effects of the pandemic through the study of infections, deaths, and recoveries in the Countries with highest infection Rate in 2021.  
