@@ -23,7 +23,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### eCommerce Business Analysis
-**Code:** [`eCommerce_Business_Analysis.git`](https://github.com/Mariogebraell/eCommerce_Business_Analysis.git)
+**Code:** [`eCommerce-Business-Analysis.git`](https://github.com/Mariogebraell/eCommerce-Business-Analysis.git)
 
 **Description:** Our business is a large "Web Based" electonics sales organization. As such out customers are spread across the world and purchase goods that range from mp3 players to TV and video products. The eCommerce management team requires DAR methodology, KPI presentation,  Highly interactive Analysis of Trends and Share presentation, Reporting pages providing granular/detailed information in tabular form presentation,  Self Service Analytics, Strong Security, Data Timeliness.
 The project includes the following steps: Identify Requirements for Data Models, Design Data Models, Build Data Models, Validate Data, Design Applications, Prepare and Load Data, Develop Application, Analysis, Reporting, Merge Application, Mashup development.  
