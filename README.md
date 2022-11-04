@@ -34,7 +34,7 @@ The project includes the following steps: Identify Requirements for Data Models,
 ### Patient Costing Analysis
 **Code:** [`Patient-Costing-Analysis.git`](https://github.com/Mariogebraell/Patient-Costing-Analysis.git)
 
-**Description:** The dataset contains 211,233 records as of 2018, 2019 and 2020. points of Interest based on discussions with the user are: Patient counts, Revenue received, Costs, Practioner profitability.
+**Description:** The dataset contains 211,233 records as of 2018, 2019 and 2020. The points of Interest based on discussions with the user are: Patient counts, Revenue received, Costs, Practioner profitability.
 The project includes the following steps: Understanding Data and Reqirements, Data life cycle, Domain Identification, Data Source Identification, Develop Hypothesis, Qlik Associative Model, Create Application, Loading Data, Transform Data, Perform Manual Associations.  
 **Skills:**  data sourcing and cleaning, perform analytics, Abridged Methodology, descriptive statistics, ETL, results visualization.  
 **Technology:** Qlik Sense, SQL, Excel.  
