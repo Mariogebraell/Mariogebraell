@@ -56,7 +56,7 @@ The project includes the following steps: data loading, data cleaning and proces
 The project includes the following steps: Ask, Prepare, Process, Analyse, Share, Act as described in the Google Data Analytics Professional Certificate.  
 **Skills:** data cleaning, data analysis, descriptive statistics, R coding, hypothesis testing, data visualization,  making conclusion and giving recommendations for follow-up actions.  
 **Technology:** R Programming, R Markdown, ggplot, ggarrange, Kaggle Notebook, Excel.  
-**Results:**  Design a new marketing strategy to convert casual riders into annual members.    
+**Results:**  Designed a new marketing strategy to convert casual riders into annual members.    
 
 
 
@@ -66,7 +66,7 @@ The project includes the following steps: Ask, Prepare, Process, Analyse, Share,
 **Description:** This study analyses quantitatively the lethal effects of the pandemic through the study of infections, deaths, and recoveries in the Countries with highest infection Rate in 2021.  
 **Skills:** joins, CTE's, temp tables, windows functions, aggregate functions, creating views, converting data types.  
 **Technology:** Microsoft SQL Server, Excel.  
-**Results:** learn about the relationships of various countries in containing the spread of COVID-19.
+**Results:** learning about the relationships of various countries in containing the spread of COVID-19.
 
 
 ## Certificates
