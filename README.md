@@ -87,7 +87,7 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 
 
 ## Contacts
-- LinkedIn: [mario-gebrael](https://www.linkedin.com/in/mario-gebrael)
+- LinkedIn: [Mario Gebrael](https://www.linkedin.com/in/mario-gebrael)
 - E-mail: Mariogebrael@yahoo.com
 
 
