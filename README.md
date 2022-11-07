@@ -29,7 +29,7 @@ In this section I will list data analytics projects briefly describing the techn
 The project includes the following steps: Identify Requirements for Data Models, Design Data Models, Build Data Models, Validate Data, Design Applications, Prepare and Load Data, Develop Application, Analysis, Reporting, Merge Application, Mashup development.  
 **Skills:** data cleaning, set analysis, descriptive statistics, Risk Analysis, ETL, data visualization.  
 **Technology:** Qlik Sense, SQL, Excel..  
-**Results:** Created a Tier 4 for Self Service Analytics. 
+**Results:** Create a Tier 4 for Self Service Analytics. 
 
 ### Patient Costing Analysis
 **Code:** [`Patient-Costing-Analysis.git`](https://github.com/Mariogebraell/Patient-Costing-Analysis.git)
@@ -38,7 +38,7 @@ The project includes the following steps: Identify Requirements for Data Models,
 The project includes the following steps: Understanding Data and Reqirements, Data life cycle, Domain Identification, Data Source Identification, Develop Hypothesis, Qlik Associative Model, Create Application, Loading Data, Transform Data, Perform Manual Associations.  
 **Skills:**  data sourcing and cleaning, perform analytics, Abridged Methodology, descriptive statistics, ETL, results visualization.  
 **Technology:** Qlik Sense, SQL, Excel.  
-**Results:** Created an analytical dashboard to identify the patient care costs.  
+**Results:** Create an analytical dashboard to identify the patient care costs.  
 
 ### BellaBeat High-Tech Company Analysis
 **Code:** [`capstone-optimizing-bellabeat-with-r.ipynb`](https://github.com/Mariogebraell/optimizing-bellabeat-with-r.git)
@@ -47,7 +47,7 @@ The project includes the following steps: Understanding Data and Reqirements, Da
 The project includes the following steps: data loading, data cleaning and processing, filling missing values, EDA (exploratory data analysis), measuring statistical factors.  
 **Skills:** data cleaning, data analysis, descriptive statistics, R coding, hypothesis testing, data visualization,  making conclusion and giving recommendations for follow-up actions.  
 **Technology:** R Programming, R Markdown, ggplot, ggarrange, Kaggle Notebook, Excel.  
-**Results:** Finding different trends that may help our online campaign and improve the Bellabeat app.   
+**Results:** Find different trends that may help our online campaign and improve the Bellabeat app.   
 
 ### Cyclistic Bike-Share Analysis 
 **Code:** [`cyclistic-bike-share-analysis-r.ipynb`](https://github.com/Mariogebraell/cyclistic-bike-share-analysis.git)
@@ -56,7 +56,7 @@ The project includes the following steps: data loading, data cleaning and proces
 The project includes the following steps: Ask, Prepare, Process, Analyse, Share, Act as described in the Google Data Analytics Professional Certificate.  
 **Skills:** data cleaning, data analysis, descriptive statistics, R coding, hypothesis testing, data visualization,  making conclusion and giving recommendations for follow-up actions.  
 **Technology:** R Programming, R Markdown, ggplot, ggarrange, Kaggle Notebook, Excel.  
-**Results:**  Designed a new marketing strategy to convert casual riders into annual members.    
+**Results:**  Design a new marketing strategy to convert casual riders into annual members.    
 
 
 
@@ -66,7 +66,7 @@ The project includes the following steps: Ask, Prepare, Process, Analyse, Share,
 **Description:** This study analyses quantitatively the lethal effects of the pandemic through the study of infections, deaths, and recoveries in the Countries with highest infection Rate in 2021.  
 **Skills:** joins, CTE's, temp tables, windows functions, aggregate functions, creating views, converting data types.  
 **Technology:** Microsoft SQL Server, Excel.  
-**Results:** learned about the relationships of various countries in containing the spread of COVID-19.
+**Results:** learn about the relationships of various countries in containing the spread of COVID-19.
 
 
 ## Certificates
