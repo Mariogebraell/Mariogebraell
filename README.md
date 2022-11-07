@@ -29,7 +29,7 @@ In this section I will list data analytics projects briefly describing the techn
 The project includes the following steps: Identify Requirements for Data Models, Design Data Models, Build Data Models, Validate Data, Design Applications, Prepare and Load Data, Develop Application, Analysis, Reporting, Merge Application, Mashup development.  
 **Skills:** data cleaning, set analysis, descriptive statistics, Risk Analysis, ETL, data visualization.  
 **Technology:** Qlik Sense, SQL, Excel..  
-**Results:** Created an a Tier 4 for Self Service Analytics. 
+**Results:** Created a Tier 4 for Self Service Analytics. 
 
 ### Patient Costing Analysis
 **Code:** [`Patient-Costing-Analysis.git`](https://github.com/Mariogebraell/Patient-Costing-Analysis.git)
